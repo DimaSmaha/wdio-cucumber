@@ -1,5 +1,4 @@
 Feature: Success register
-
     Background:
         Given I am on redmine page
     Scenario: 
